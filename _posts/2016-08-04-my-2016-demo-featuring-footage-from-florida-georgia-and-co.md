@@ -1,24 +1,22 @@
 ---
-datePublished: '2016-08-04T21:58:02.263Z'
-isBasedOnUrl: 'https://vimeo.com/177397137'
+datePublished: '2016-08-04T21:58:25.867Z'
 author:
   - name: Kyle Hermsen
     url: 'https://vimeo.com/kylehermsen'
     avatar: {}
 via: {}
-dateModified: '2016-08-04T21:56:40.519Z'
+dateModified: '2016-08-04T21:58:25.040Z'
 title: 'My 2016 Demo featuring footage from Florida, Georgia, and Colorado.'
 publisher: {}
 description: >-
   Demo reel showcasing footage I have shot over the past year in Florida,
   Georgia and Colorado. Music: Odeza - Kusangi No copyright infringement was
   meant by the use of this song or any associate imagery shown in the video.
-starred: false
 sourcePath: >-
   _posts/2016-08-04-my-2016-demo-featuring-footage-from-florida-georgia-and-co.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: my-2016-demo-featuring-footage-from-florida-georgia-and-co/index.html
 _type: MediaObject
 
 ---
