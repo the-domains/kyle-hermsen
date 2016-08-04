@@ -1,4 +1,4 @@
-typography_spectrum: 0.7605213890783489
+typography_spectrum: 0.43267231597565114
 color:
   saturation: 0.9843469429761171
   brandStrength: 0.11570419860072434
@@ -10,7 +10,7 @@ color:
     - '#4D4D4D'
     - '#333333'
   rhythmicContrast: 0.7691114449407905
-layout_spectrum: 0.22100091679021716
+layout_spectrum: 0.5747946610208601
 name: Kyle Hermsen
 navigation:
   - name: Demo Reel
