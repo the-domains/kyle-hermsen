@@ -4,14 +4,21 @@
         <description><![CDATA[Explore. Create.]]></description>
         <link>https://thegrid.ai/kyle-hermsen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 19:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 21:58:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kyle-hermsen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My 2016 Demo featuring footage from Florida, Georgia, and Colorado.]]></title>
+            <description><![CDATA[<article><h1>My 2016 Demo featuring footage from Florida, Georgia, and Colorado.</h1><p>Demo reel showcasing footage I have shot over the past year in Florida, Georgia and Colorado. Music: Odeza - Kusangi No copyright infringement was meant by the use of this song or any associate imagery shown in the video.</p></article>]]></description>
+            <link>https://vimeo.com/177397137</link>
+            <guid isPermaLink="false">ab6378d3-3ed3-45e9-8b1f-0887f341dc2b</guid>
+            <pubDate>Thu, 04 Aug 2016 21:58:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12d2032d-b729-4886-9cc1-9d27c57b92ed.jpg" alt="Hiking Peaks Trail in Breckenridge Colorado">]]></description>
             <link>https://thegrid.ai/kyle-hermsen/hiking-peaks-trail-in-breckenridge-colorado/index.html</link>
             <guid isPermaLink="false">7902ce4e-e0be-4309-850e-41b9547ce7ab</guid>
-            <pubDate>Thu, 04 Aug 2016 19:18:04 GMT</pubDate>
+            <pubDate>Thu, 04 Aug 2016 19:18:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Swimtime]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kyle-hermsen/golden-hour/index.html</link>
             <guid isPermaLink="false">d6124438-fb12-45f2-9b51-c0f2cf63e9eb</guid>
             <pubDate>Thu, 04 Aug 2016 19:12:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Skyward]]></title>
-            <description><![CDATA[<article><h1>Skyward</h1><p>Took this awesome perspective shot while hiking near Breckenridge Colorado</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cd3436e-7bc1-4ed1-a7ae-e06516fb8243.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kyle-hermsen/skyward/index.html</link>
-            <guid isPermaLink="false">d01b9386-4392-4574-aa0a-d760ba9745c3</guid>
-            <pubDate>Thu, 04 Aug 2016 19:12:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
