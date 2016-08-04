@@ -4,8 +4,15 @@
         <description><![CDATA[Explore. Create.]]></description>
         <link>https://thegrid.ai/kyle-hermsen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 19:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 19:13:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kyle-hermsen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[🚂]]></title>
+            <description><![CDATA[<article><h1>🚂</h1><p>Found a simple set of train tracks near Fountain Colorado</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32eba560-b5d7-4383-aceb-bed03a4bd48c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kyle-hermsen/1bb135d2-e434-4ca4-8cc0-dc85df17aad2/index.html</link>
+            <guid isPermaLink="false">1bb135d2-e434-4ca4-8cc0-dc85df17aad2</guid>
+            <pubDate>Thu, 04 Aug 2016 19:13:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sunset]]></title>
             <description><![CDATA[<article><h1>Sunset</h1><p>Sunset taken at Grand Lake in Oklahoma</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/872fa52a-ed25-4134-a050-34f98d3ffad5.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kyle-hermsen/breckenridge/index.html</link>
             <guid isPermaLink="false">7df648df-f45c-4fc3-b6bc-593bcb9b971b</guid>
             <pubDate>Thu, 04 Aug 2016 19:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best Birthday]]></title>
-            <description><![CDATA[<article><h1>Best Birthday</h1><p>I got to spend my birthday this year with my 2 favorite girls. Nothing in the world is better than that. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/edbb24a6-46d6-454d-849a-a2df5ab4643d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kyle-hermsen/best-birthday/index.html</link>
-            <guid isPermaLink="false">06be0a05-02b9-45c9-bd34-3341f0ac8368</guid>
-            <pubDate>Thu, 04 Aug 2016 19:00:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
