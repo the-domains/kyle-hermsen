@@ -12,5 +12,9 @@ color:
     - '#FAD8D6'
 layout_spectrum: 0.4497960186563432
 name: Kyle Hermsen
+navigation:
+  - name: About Me
+    id: ad890adc-e7be-408b-9023-f18de6e7ff83
+    type: content
 title: Explore. Create.
 description: Cinematographer•Photographer•Husband•Father
