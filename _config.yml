@@ -16,6 +16,9 @@ navigation:
   - name: Demo Reel
     id: ab6378d3-3ed3-45e9-8b1f-0887f341dc2b
     type: content
+  - name: About Me
+    id: ad890adc-e7be-408b-9023-f18de6e7ff83
+    type: content
 collections:
   - index:
       path: /
