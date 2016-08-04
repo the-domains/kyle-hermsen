@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kyle Hermsen]]></title>
         <description><![CDATA[Kyle Hermsen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kyle-hermsen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 18:59:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 18:59:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kyle-hermsen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Golden Hour]]></title>
+            <description><![CDATA[<article><h1>Golden Hour</h1><p>Peaks Trail, Breckenridge Colorado</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed6a0382-5767-4df4-9338-814e0a7ca80f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kyle-hermsen/golden-hour/index.html</link>
+            <guid isPermaLink="false">d6124438-fb12-45f2-9b51-c0f2cf63e9eb</guid>
+            <pubDate>Thu, 04 Aug 2016 18:59:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12d2032d-b729-4886-9cc1-9d27c57b92ed.jpg">]]></description>
-            <link>undefinedhiking-peaks-trail-in-breckenridge-colorado/index.html</link>
+            <link>https://thegrid.ai/kyle-hermsen/hiking-peaks-trail-in-breckenridge-colorado/index.html</link>
             <guid isPermaLink="false">7902ce4e-e0be-4309-850e-41b9547ce7ab</guid>
             <pubDate>Thu, 04 Aug 2016 18:59:41 GMT</pubDate>
         </item>
