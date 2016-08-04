@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-04T19:18:04.918Z'
+datePublished: '2016-08-04T19:18:14.653Z'
 sourcePath: _posts/2016-08-04-hiking-peaks-trail-in-breckenridge-colorado.md
 author: []
 via: {}
-dateModified: '2016-08-04T19:18:04.351Z'
+dateModified: '2016-08-04T19:18:14.278Z'
 title: ''
 publisher: {}
 description: Hiking Peaks Trail in Breckenridge Colorado
