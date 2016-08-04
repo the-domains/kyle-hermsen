@@ -12,21 +12,21 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.7481203
-  brandStrength: 0.7767495622392744
-  lightness: 0.2851772
+  saturation: 0.9843469429761171
+  brandStrength: 0.11570419860072434
+  lightness: 0.13849028130061924
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  rhythmicContrast: 1
-typography_spectrum: 0.4301826
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  rhythmicContrast: 0.7691114449407905
+typography_spectrum: 0.7605213890783489
 description: Cinematographer•Photographer•Husband•Father
 navigation:
   - name: About Me
     id: ad890adc-e7be-408b-9023-f18de6e7ff83
     type: content
-layout_spectrum: 1
+layout_spectrum: 0.22100091679021716
 name: Kyle Hermsen
