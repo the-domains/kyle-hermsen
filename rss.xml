@@ -4,8 +4,15 @@
         <description><![CDATA[Explore. Create.]]></description>
         <link>https://thegrid.ai/kyle-hermsen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 19:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 19:13:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kyle-hermsen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Beast]]></title>
+            <description><![CDATA[<article><h1>The Beast</h1><p>Had the opportunity to shoot with the Sigma 120-300 F/2.8</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5f047ba-5905-4c2e-a68f-2b844adb9c4f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kyle-hermsen/the-beast/index.html</link>
+            <guid isPermaLink="false">92742ba5-a642-49c5-94a6-bb584db9f6e7</guid>
+            <pubDate>Thu, 04 Aug 2016 19:13:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fences]]></title>
             <description><![CDATA[<article><h1>Fences</h1><p>Found this secluded little lake down near Falcoln Colorado </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a7d9487-743b-4771-b371-75065b1f7289.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kyle-hermsen/sunset/index.html</link>
             <guid isPermaLink="false">d2310d8e-15ef-4885-b72b-d37acffb2431</guid>
             <pubDate>Thu, 04 Aug 2016 19:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚂]]></title>
-            <description><![CDATA[<article><h1>🚂</h1><p>Found a simple set of train tracks near Fountain Colorado</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32eba560-b5d7-4383-aceb-bed03a4bd48c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kyle-hermsen/1bb135d2-e434-4ca4-8cc0-dc85df17aad2/index.html</link>
-            <guid isPermaLink="false">1bb135d2-e434-4ca4-8cc0-dc85df17aad2</guid>
-            <pubDate>Thu, 04 Aug 2016 18:59:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
