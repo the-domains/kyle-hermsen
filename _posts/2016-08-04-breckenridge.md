@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-04T19:13:44.689Z'
+datePublished: '2016-08-04T19:16:50.564Z'
 sourcePath: _posts/2016-08-04-breckenridge.md
 author: []
 via: {}
-dateModified: '2016-08-04T19:13:44.390Z'
+dateModified: '2016-08-04T19:16:50.176Z'
 title: Breckenridge
 publisher: {}
 description: A panorama taken atop Peak 9 overlook Breckenridge Colorado
