@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-04T21:58:25.867Z'
+datePublished: '2016-08-04T22:04:20.452Z'
 author:
   - name: Kyle Hermsen
     url: 'https://vimeo.com/kylehermsen'
     avatar: {}
 via: {}
-dateModified: '2016-08-04T21:58:25.040Z'
+dateModified: '2016-08-04T22:04:19.920Z'
 title: 'My 2016 Demo featuring footage from Florida, Georgia, and Colorado.'
 publisher: {}
 description: >-
