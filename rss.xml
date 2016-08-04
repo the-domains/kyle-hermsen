@@ -4,15 +4,8 @@
         <description><![CDATA[Explore. Create.]]></description>
         <link>https://thegrid.ai/kyle-hermsen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 19:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 19:17:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kyle-hermsen/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Best Birthday]]></title>
-            <description><![CDATA[<article><h1>Best Birthday</h1><p>I got to spend my birthday this year with my 2 favorite girls. Nothing in the world is better than that. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/edbb24a6-46d6-454d-849a-a2df5ab4643d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kyle-hermsen/best-birthday/index.html</link>
-            <guid isPermaLink="false">06be0a05-02b9-45c9-bd34-3341f0ac8368</guid>
-            <pubDate>Thu, 04 Aug 2016 19:16:59 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Breckenridge]]></title>
             <description><![CDATA[<article><h1>Breckenridge</h1><p>A panorama taken atop Peak 9 overlook Breckenridge Colorado</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae842b7f-a34d-4b2c-ba0e-02ade6aaab11.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/kyle-hermsen/swimtime/index.html</link>
             <guid isPermaLink="false">fa98964e-8358-47e9-9f1d-2e9b0b7c5c50</guid>
             <pubDate>Thu, 04 Aug 2016 19:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Redrocks with a Red Scarlet]]></title>
+            <description><![CDATA[<article><h1>Redrocks with a Red Scarlet</h1><p>I had the opportunity to shoot the Dolly Parton concert at Red Rocks Amphitheater in Morrison Colorado. We flew the Red Scarlet W and 25-250 Angenieux on a 24' Jimmy Jib.  </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29bbde9f-df38-42d3-b336-83f518ebcb97.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kyle-hermsen/redrocks-with-a-red-scarlet/index.html</link>
+            <guid isPermaLink="false">1af5a6a7-f0a9-403e-bad9-58ddbc22a0c1</guid>
+            <pubDate>Thu, 04 Aug 2016 19:11:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
