@@ -1,20 +1,32 @@
-typography_spectrum: 0.7504118005745113
+title: Explore. Create.
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.7481203
   brandStrength: 0.7767495622392744
-  lightness: 0.9847293449565768
-  saturation: 0.8226033069659024
-  rhythmicContrast: 0.7726764234248549
+  lightness: 0.2851772
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-layout_spectrum: 0.4497960186563432
-name: Kyle Hermsen
+  rhythmicContrast: 1
+typography_spectrum: 0.4301826
+description: Cinematographer•Photographer•Husband•Father
 navigation:
   - name: About Me
     id: ad890adc-e7be-408b-9023-f18de6e7ff83
     type: content
-title: Explore. Create.
-description: Cinematographer•Photographer•Husband•Father
+layout_spectrum: 1
+name: Kyle Hermsen
